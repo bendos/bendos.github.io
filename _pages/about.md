@@ -2,33 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Full Professor, Department of Applied Economics, <a href='https://www.hec.ca/'>HEC Montréal</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Applied Economics</p>
+    <p>HEC Montréal</p>
+    <p>3000 chemin de la Côte-Sainte-Catherine</p>
+    <p>Montréal, QC H3T 2A7, Canada</p>
+    <p>benoit.dostie@hec.ca</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a [Full Professor](https://www.hec.ca/en/profs/benoit.dostie.html) at the Department of Applied Economics of HEC Montréal, the business school affiliated with the Université de Montréal. I am also the scientific director of the [Retirement and Savings Institute](https://ire.hec.ca/en/) and holder of the [Power Corporation of Canada Chair in Employer-Employee Dynamics, Earnings and Benefits](https://chaire-power-corporation-travail.hec.ca/en/), both at HEC Montréal.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a member of the [Canadian Statistical Advisory Council (CSAC)](https://www.statcan.gc.ca/en/about/advisory-groups/csac) and a Fellow of the [IZA Network at LISER](https://www.iza.org/person/480/benoit-dostie) and at [CIRANO](https://cirano.qc.ca/en/community/directory/view/1586).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on labor economics, with particular interests in statistical models for linked employer-employee data, returns to human capital, firm-sponsored training, productivity, turnover, and labour reallocation.
+
+I received my Ph.D. in Economics from Cornell University in 2001.
+
+[CV (English)](/assets/pdf/cv.pdf) · [CV en français](/assets/pdf/cv_fr.pdf)
