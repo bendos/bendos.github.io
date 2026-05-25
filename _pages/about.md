@@ -22,7 +22,7 @@ social: true
 
 I am a [Full Professor](https://www.hec.ca/en/profs/benoit.dostie.html) at the Department of Applied Economics of HEC Montréal, the business school affiliated with the Université de Montréal. I am also the scientific director of the [Retirement and Savings Institute](https://ire.hec.ca/en/) and holder of the [Power Corporation of Canada Chair in Employer-Employee Dynamics, Earnings and Benefits](https://chaire-power-corporation-travail.hec.ca/en/), both at HEC Montréal.
 
-I am a member of the [Canadian Statistical Advisory Council (CSAC)](https://www.statcan.gc.ca/en/about/advisory-groups/csac) and a Fellow of the [IZA Network at LISER](https://www.iza.org/person/480/benoit-dostie) and at [CIRANO](https://cirano.qc.ca/en/community/directory/view/1586).
+I chair the [Canadian Statistical Advisory Council (CSAC)](https://www.statcan.gc.ca/en/about/advisory-groups/csac) and am a Fellow of the [IZA Network at LISER](https://www.iza.org/person/480/benoit-dostie) and at [CIRANO](https://cirano.qc.ca/en/community/directory/view/1586).
 
 My research focuses on labor economics, with particular interests in statistical models for linked employer-employee data, returns to human capital, firm-sponsored training, productivity, turnover, and labour reallocation.
 
