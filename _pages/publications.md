@@ -15,7 +15,7 @@ nav_order: 2
 
 <div class="publications">
 
-<h2 class="year">Working Papers</h2>
+<h2 class="year">Work-in-progress</h2>
 
 {% bibliography -q @unpublished %}
 
