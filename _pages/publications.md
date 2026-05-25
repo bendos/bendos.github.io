@@ -15,6 +15,10 @@ nav_order: 2
 
 <div class="publications">
 
+<h2 class="year">Working Papers</h2>
+
+{% bibliography -q @unpublished %}
+
 <h2 class="year">Articles</h2>
 
 {% bibliography -q @article %}
@@ -26,10 +30,6 @@ nav_order: 2
 <h2 class="year">Books</h2>
 
 {% bibliography -q @book %}
-
-<h2 class="year">Working Papers</h2>
-
-{% bibliography -q @unpublished %}
 
 <h2 class="year">Other Written Work</h2>
 
