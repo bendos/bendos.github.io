@@ -16,7 +16,7 @@ profile:
     <p>benoit.dostie@hec.ca</p>
 
 news: true
-selected_papers: true
+selected_papers: false
 social: true
 ---
 
