@@ -4,7 +4,7 @@ permalink: /current_work/
 title: current work
 description: working papers and work in progress.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 <!-- _pages/current_work.md -->
