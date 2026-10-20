@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-policy-reports",
+          title: "policy reports",
+          description: "reports written for research centres, think tanks and government agencies, in reverse chronological order. Most are in French (marked FR).",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/policy_reports/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
