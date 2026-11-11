@@ -27,8 +27,4 @@ nav_order: 3
 
 {% bibliography -q @book %}
 
-<h2 class="year">Other Written Work</h2>
-
-{% bibliography -q @techreport[category=other] %}
-
 </div>
