@@ -2,7 +2,7 @@
 layout: page
 permalink: /policy_reports/
 title: policy reports
-description: reports written for research centres, think tanks and government agencies, in reverse chronological order. Most are in French (marked FR).
+description: reports written for research centres, think tanks and government agencies, in reverse chronological order. Most are in French.
 nav: true
 nav_order: 4
 ---
